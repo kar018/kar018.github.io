@@ -1,0 +1,162 @@
+
+h1{
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid #042940;
+    margin-bottom: 0.1rem;
+ 
+  
+    
+    
+}
+
+body{
+    
+    background-color: #D8FFDB;
+  
+
+}
+
+.helo{
+    border-top: 1px solid blueviolet;
+    text-align: right;
+    margin-top: 0.1rem;
+    
+}
+
+.heloa{
+
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.wagwan{
+
+    font-weight: bold;
+    margin: 0.2rem;
+}
+
+img{
+    max-width:20%;
+    height:min-content;
+    border: 2px solid black;
+}
+
+.instagram{
+
+    font-weight: 700;
+   
+}
+h3{
+    margin: 0.5rem;
+
+
+}
+
+h4, .instagram{
+    text-align: left;
+    margin: 0.2rem;
+   
+ 
+}
+
+div{
+
+    border: 3px solid blueviolet;
+    margin-top: 0.3rem;
+    margin-bottom: 0.7rem;
+    margin-left: 0.1rem;
+padding-left: 0.7rem;
+    background-color: white;
+    width: 24%;
+    float: right;
+    margin: 0 auto;
+    clear: both;
+
+}
+.box1{
+
+    border-color: black ;
+    text-align: center;
+   float: right;
+   margin-top:-100;
+   margin-bottom:  0.6rem;;
+ 
+}
+
+
+
+
+nav{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin-right:75%;
+    display: inline-block;
+    margin-top: 2rem;
+
+ 
+    
+}
+.dawwg{
+
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   float: none;
+
+
+   
+}
+
+nav a{
+
+    text-decoration: none;
+   
+  
+}
+nav a:hover{
+
+    background-color: azure;
+    color: cornflowerblue;
+}
+
+.floatleft{
+
+    float: left;
+}
+
+blockquote{
+
+    text-align: right;
+}
+
+cite{
+
+    font-weight:800;
+}
+.damn{
+
+    list-style-type: none ;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
+.r{
+
+    border: 1px solid black;
+    flex-basis: 15%;
+}
+.papi{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+footer{
+
+    margin-top: 1px solid #042940;
+   
+}
+
